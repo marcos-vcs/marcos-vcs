@@ -36,7 +36,6 @@ Hi, I'm Marcos Sousa, passionate about studying programming and technology. 🚀
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://3.bp.blogspot.com/-wezYT0EUtcM/W9NB1wTpOkI/AAAAAAAAFTM/jOIoB7pYi9sEOVUukyEs7-VFZpEgb8kEQCLcBGAs/s1600/bootstrap-stack.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://www.php.net/images/logos/new-php-logo.svg"></code>
 
 <br>
 <br>
