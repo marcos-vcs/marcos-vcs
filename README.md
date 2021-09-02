@@ -29,7 +29,7 @@ Hi, I'm Marcos Sousa, passionate about studying programming and technology. 🚀
 **Languages and Tools in Learning:**  
 
 <code><img height="20" src="https://2.bp.blogspot.com/_4OhBcHufwyo/S7-FJtXGGVI/AAAAAAAAAYE/7v2yUhteMqs/s1600/java.JPG"></code>
-<code><img height="20" src="https://symbols-electrical.getvecta.com/stencil_96/68_spring-framework-icon.f901b1016d.jpg"></code>
+<code><img height="20" src="https://miro.medium.com/max/785/1*rXKU7dQO6joxBsYfktv4mQ.png"></code>
 <code><img height="20" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo-tumb.jpg"></code>
 <code><img height="20" src="https://img.icons8.com/color/452/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
