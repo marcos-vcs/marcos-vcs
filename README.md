@@ -43,7 +43,7 @@ Hi, I'm Marcos Sousa, passionate about studying programming and technology. 🚀
 
 <p align="center">📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marcosviniciocardososousa&show_icons=true&theme=radical" alt="marcosviniciocardososousa" width="500" height="320" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciocardososousa&layout=compact" alt="marcosviniciocardososousa" width="500" height="320" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marcos-vcs&show_icons=true&theme=radical" alt="marcosviniciocardososousa" width="500" height="320" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-vcs&layout=compact" alt="marcosviniciocardososousa" width="500" height="320" />
 <br>
 <hr>
