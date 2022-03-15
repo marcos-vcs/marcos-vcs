@@ -5,7 +5,7 @@
   <img align="left" alt="Marcos Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/31maixf4j6ujssnyiiti3w6hmyfa">
-  <img align="left" alt="Marcos Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Marcos Spotify" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />
 </a>
 
 <br>
