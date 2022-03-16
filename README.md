@@ -28,14 +28,16 @@ Hi, I'm Marcos Sousa, passionate about studying programming and technology. 🚀
 
 **Languages and Tools in Learning:**  
 
-<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code>
-<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
-<code><img height="25" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"></code>
-<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
-<code><img height="25" src="https://ionicframework.com/blog/wp-content/uploads/2020/10/white-on-color.png"></code>
+<code><img height="26" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code>
+<code><img height="26" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
+<code><img height="26" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"></code>
+<code><img height="26" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
+<code><img height="26" src="https://ionicframework.com/blog/wp-content/uploads/2020/10/white-on-color.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png"></code>
-<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
-<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
+<code><img height="26" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
+<code><img height="26" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
+<code><img height="26" src="https://img.icons8.com/color/480/mongodb.png"></code>
+<code><img height="26" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png"></code>
 
 <br>
 <br>
