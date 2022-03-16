@@ -28,14 +28,14 @@ Hi, I'm Marcos Sousa, passionate about studying programming and technology. 🚀
 
 **Languages and Tools in Learning:**  
 
-<code><img height="20" src="https://2.bp.blogspot.com/_4OhBcHufwyo/S7-FJtXGGVI/AAAAAAAAAYE/7v2yUhteMqs/s1600/java.JPG"></code>
-<code><img height="20" src="https://miro.medium.com/max/785/1*rXKU7dQO6joxBsYfktv4mQ.png"></code>
-<code><img height="20" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo-tumb.jpg"></code>
-<code><img height="20" src="https://img.icons8.com/color/452/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://3.bp.blogspot.com/-wezYT0EUtcM/W9NB1wTpOkI/AAAAAAAAFTM/jOIoB7pYi9sEOVUukyEs7-VFZpEgb8kEQCLcBGAs/s1600/bootstrap-stack.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code>
+<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
+<code><img height="25" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"></code>
+<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
+<code><img height="25" src="https://ionicframework.com/blog/wp-content/uploads/2020/10/white-on-color.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png"></code>
+<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
+<code><img height="25" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 
 <br>
 <br>
