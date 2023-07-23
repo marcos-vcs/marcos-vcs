@@ -1,8 +1,5 @@
-<a href="https://discord.gg/PfUde5uy">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://www.linkedin.com/in/marcos-sousa-mvcs/">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://open.spotify.com/user/31wz3hlzqufklglmjov2qe7x5zxe">
   <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />
