@@ -25,8 +25,9 @@ Hi, I'm Marcos Sousa, passionate about studying programming and technology. 🚀
 - **Front-end** <br>
 <code><img height="26" title="HTML 5" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code>
 <code><img height="26" title="CSS 3" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
-<code><img height="26" title="JavaScript" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"></code>
 <code><img height="26" title="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
+<code><img height="26" title="Bulma CSS" src="https://github.com/marcos-vcs/marcos-vcs/assets/37250628/296465b1-09a9-4b87-ab89-c5171b111ffe"></code>
+<code><img height="26" title="JavaScript" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"></code>
 <code><img height="26" title="Ionic" src="https://github.com/marcos-vcs/marcos-vcs/assets/37250628/488f7dc5-53ea-4743-aae4-490b42e9680f"></code>
 <code><img height="26" title="Vue JS" src="https://github.com/marcos-vcs/marcos-vcs/assets/37250628/9a3b4097-ca4a-485a-889b-531fc78c985a"></code>
 <code><img height="30" title="Angular" src="https://github.com/marcos-vcs/marcos-vcs/assets/37250628/20b6a67f-5314-4461-8d19-65ca80c1b36d"></code>
