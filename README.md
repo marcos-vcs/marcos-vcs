@@ -1,8 +1,8 @@
 <a href="https://www.linkedin.com/in/marcos-sousa-mvcs/">
-  <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <img title="LinkedIn" align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://open.spotify.com/user/31wz3hlzqufklglmjov2qe7x5zxe">
-  <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />
+  <img title="Spotify" align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />
 </a>
 <br><br>
 
@@ -23,25 +23,25 @@ Hi, I'm Marcos Sousa, passionate about studying programming and technology. 🚀
 **Languages and tools I have experience with or am learning:**
 
 - **Front-end** <br>
-<code><img height="26" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code>
-<code><img height="26" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
-<code><img height="26" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"></code>
-<code><img height="26" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
-<code><img height="26" src="https://ionicframework.com/blog/wp-content/uploads/2020/10/white-on-color.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png"></code>
-<code><img height="26" src="https://www.ambient-it.net/wp-content/uploads/2016/04/wpf-logo-175.png"></code>
+<code><img height="26" title="HTML 5" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code>
+<code><img height="26" title="CSS 3" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
+<code><img height="26" title="JavaScript" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"></code>
+<code><img height="26" title="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
+<code><img height="26" title="Ionic" src="https://github.com/marcos-vcs/marcos-vcs/assets/37250628/488f7dc5-53ea-4743-aae4-490b42e9680f"></code>
+<code><img height="26" title="Vue JS" src="https://github.com/marcos-vcs/marcos-vcs/assets/37250628/9a3b4097-ca4a-485a-889b-531fc78c985a"></code>
+<code><img height="30" title="Angular" src="https://github.com/marcos-vcs/marcos-vcs/assets/37250628/20b6a67f-5314-4461-8d19-65ca80c1b36d"></code>
 
 - **Back-end** <br>
-<code><img height="26" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
-<code><img height="26" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
-<code><img height="26" src="https://avatars.githubusercontent.com/u/1134463?v=4"></code>
-<code><img height="26" src="https://www.pngkey.com/png/detail/341-3410177_microsoft-net-logo-png-dot-net-logo-png.png"></code>
+<code><img title="Java" height="26" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
+<code><img title="Spring Boot" height="26" src="https://avatars.githubusercontent.com/u/1134463?v=4"></code>
+<code><img title="C#" height="26" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
+<code><img title=".NET" height="26" src="https://github.com/marcos-vcs/marcos-vcs/assets/37250628/300a3727-c1ec-4790-8c1e-ebf9c92f1c19"></code>
 
 - **Databases** <br>
-<code><img height="26" src="https://img.icons8.com/color/480/mongodb.png"></code>
-<code><img height="26" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png"></code>
-<code><img height="26" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mariadb-seal-browntext.svg/2560px-Mariadb-seal-browntext.svg.png"></code>
+<code><img title="MongoDB" height="26" src="https://img.icons8.com/color/480/mongodb.png"></code>
+<code><img title="SQL Server" height="26" src="https://github.com/marcos-vcs/marcos-vcs/assets/37250628/accaf327-ee15-4da0-bc1d-6bd29034d89f"></code>
+<code><img title="MySQL" height="26" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png"></code>
+<code><img title="MariaDB" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mariadb-seal-browntext.svg/2560px-Mariadb-seal-browntext.svg.png"></code>
 
 <br>
 <br>
